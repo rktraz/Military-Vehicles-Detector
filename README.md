@@ -1,6 +1,8 @@
 # Military-Vehicle-Detector-bot
 This is my per-project. Built using YOLOv5 and my custom dataset.
 
+## **@military_detector_bot**
+
 *Send me an image of any military vehicle and I will detect and classify it!📑*
 
 
