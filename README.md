@@ -2,6 +2,7 @@
 This is my per-project. Built using YOLOv5 and my custom dataset.
 
 ## **@military_detector_bot**
+![изображение](https://user-images.githubusercontent.com/58133204/164002352-fda43893-61a6-4fe9-b62d-a0f2ccc5a485.png)
 
 *Send me an image of any military vehicle and I will detect and classify it!📑*
 
